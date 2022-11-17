@@ -8,4 +8,11 @@
         <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="OpenTK" Version="4.7.5" />
+      <PackageReference Include="OpenTK.Core" Version="4.7.5" />
+      <PackageReference Include="OpenTK.Graphics" Version="4.7.5" />
+      <PackageReference Include="OpenTK.Mathematics" Version="4.7.5" />
+    </ItemGroup>
+
 </Project>
