@@ -10,9 +10,18 @@
 
     <ItemGroup>
       <PackageReference Include="OpenTK" Version="4.7.5" />
+      <PackageReference Include="OpenTK.Compute" Version="4.7.5" />
       <PackageReference Include="OpenTK.Core" Version="4.7.5" />
+      <PackageReference Include="OpenTK.GLControl" Version="3.3.3" />
+      <PackageReference Include="OpenTK.GLWpfControl" Version="4.2.2" />
       <PackageReference Include="OpenTK.Graphics" Version="4.7.5" />
+      <PackageReference Include="OpenTK.Input" Version="4.7.5" />
       <PackageReference Include="OpenTK.Mathematics" Version="4.7.5" />
+      <PackageReference Include="OpenTK.OpenAL" Version="4.7.5" />
+      <PackageReference Include="OpenTK.redist.glfw" Version="3.3.8.30" />
+      <PackageReference Include="OpenTK.Windowing.Common" Version="4.7.5" />
+      <PackageReference Include="OpenTK.Windowing.Desktop" Version="4.7.5" />
+      <PackageReference Include="OpenTK.Windowing.GraphicsLibraryFramework" Version="4.7.5" />
     </ItemGroup>
 
 </Project>
