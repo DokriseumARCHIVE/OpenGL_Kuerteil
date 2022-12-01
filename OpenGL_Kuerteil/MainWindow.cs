@@ -22,6 +22,7 @@ namespace OpenGL_Kuerteil
         protected override void OnLoad()
         {
             CursorVisible = false;
+            
         }
     }
 }
